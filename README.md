@@ -6,9 +6,10 @@
 Для запуска `docker-compose up -d --build`
 
 Grafana: https://grafana-test.koala1101.ru/d/a135baa4-03fa-4846-95fe-0433b47643d1/
-user: mts-test
-password: mts-test
 
+
+user: `mts-test`  
+password: `mts-test`
 
 ---
 
